@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <libraries>
 	<library>
-		<location>amd/src/geocoder.js</location>
-		<name>geocoder</name>
+		<location>amd/src/osm-geocoder.js</location>
+		<name>osm-geocoder</name>
 		<version>n/a</version>
 		<license>GPL</license>
 		<licenseversion>2.0</licenseversion>
